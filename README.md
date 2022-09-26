@@ -4,8 +4,8 @@ ___
 ***Web-application that supports driver authentication, registration and other CRUD operations with cars, manufacturers, drivers***
 ___
 ### :bookmark: ***Features:*** :bookmark:
-+ :pencil2: ***registration a driver***
-+ :unlock: ***authentication a driver***
++ :pencil2: ***register a driver***
++ :unlock: ***log in/out***
 + :notebook: ***create/read/update a car***   
 + :notebook: ***create/read/update a manufacturer***    
 + :notebook: ***create/read/update a driver***    
@@ -39,5 +39,5 @@ ___
     private static final String JDBC_DRIVER = "JDBC_DRIVER";
 ```
 - [x] ***Create DB, for this use init_db.sql***    
-- [x] ***Edit configurations your local Tomcat server***    
+- [x] ***Install Tomcat and configure it in your IDEA***    
 - [x] ***Run the project***    
